@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: AtelierWeb2023
+        username: atelierweb2023
         password: 12345678     
         server-dir : public_html/
