@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: AtelierWeb2023
-        password: Ji^RNr5xGL2!3SDl(X(F        
+        password: 12345678     
         server-dir : public_html/
